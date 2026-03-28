@@ -84,5 +84,3 @@ This dashboard answers the following questions:
 
 ---
 
-## 🧮 DAX Measures Created
-```dax
